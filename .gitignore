@@ -127,4 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/app/secret_data.py
+/silly-sports-stats/secret_data.py
